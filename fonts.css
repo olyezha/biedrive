@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'NunitoSans-Black';
+    src: url(fonts/Nunito_Sans/NunitoSans-Black.ttf);
+}
+
+@font-face{
+    font-family: 'NunitoSans-Regular';
+    src: url(fonts/Nunito_Sans/NunitoSans-Regular.ttf);
+}
+
+@font-face{
+    font-family: 'Comforta';
+    src: url(fonts/Comfortaa/Comfortaa-VariableFont_wght.ttf);
+}
